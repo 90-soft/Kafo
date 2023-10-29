@@ -1,4 +1,4 @@
-###Welcome to the Kafo Application!
+## Welcome to the Kafo Application!
 Introduction to the Application and Its Nature of Work:
 The idea behind the Kafo application was initiated from your great trust to create a connection between donors and individuals in need, ensuring that various types of donations and volunteer assistance reach the intended recipients. The application includes periodic account statements, the ability to track the progress of each case, the volume of donations provided by each donor, and comprehensive case details, attachments, and medical records.
 The Entity Responsible for the Application:
